@@ -1,0 +1,12 @@
+{
+  "name": "learning-jest",
+  "version": "0.0.1",
+  "description": "Learning Jest",
+  "main": "index.js",
+  "repository": "git@github.com:ninetails/learning-jest.git",
+  "author": "Carlos Kazuo <ninetails.nine@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
