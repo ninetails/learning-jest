@@ -6,7 +6,17 @@
   "repository": "git@github.com:ninetails/learning-jest.git",
   "author": "Carlos Kazuo <ninetails.nine@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
   "devDependencies": {
+    "babel-jest": "^18.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "babel-register": "^6.23.0",
     "jest": "^18.1.0"
   }
 }
